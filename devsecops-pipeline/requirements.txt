@@ -1,0 +1,7 @@
+Bandit==1.7.4
+Semgrep==0.70.0
+Safety==1.10.3
+Trivy==0.22.0
+Checkov==2.1.0
+detect-secrets==1.0.3
+slack-sdk==3.19.0
