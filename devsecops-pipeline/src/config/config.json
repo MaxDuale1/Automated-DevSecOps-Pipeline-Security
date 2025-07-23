@@ -1,0 +1,12 @@
+{
+  "slack_webhook_url": "https://hooks.slack.com/services/your/webhook/url",
+  "security_thresholds": {
+    "max_vulnerabilities": {
+      "critical": 0,
+      "high": 5,
+      "medium": 10,
+      "low": 20
+    },
+    "max_secrets": 0
+  }
+}
