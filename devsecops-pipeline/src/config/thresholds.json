@@ -1,0 +1,20 @@
+{
+  "max_allowed_vulnerabilities": {
+    "sast": {
+      "bandit": 5,
+      "semgrep": 3
+    },
+    "dependency": {
+      "safety": 2
+    },
+    "container": {
+      "trivy": 4
+    },
+    "iac": {
+      "checkov": 3
+    },
+    "secrets": {
+      "detect_secrets": 0
+    }
+  }
+}
